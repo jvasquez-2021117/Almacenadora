@@ -4,6 +4,8 @@
 Esta es una plataforma en línea que ofrece a los usuarios la posibilidad de ver y comprar bodegas de almacenamiento de manera conveniente y eficiente.
 
 La aplicación utiliza una combinación de tecnologías, con React en el front-end y Node.js, Express y MongoDB en el back-end, para brindar una experiencia fluida y segura a los usuarios.
+
+Cuenta con 2 diferentes roles, usuario y administrador, cada uno con diferentes opciones para interactuar con la aplicacion. 
 </p>
 
 ## Teconologías utilizadas
